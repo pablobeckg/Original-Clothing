@@ -3,19 +3,18 @@
 <img width="1063" alt="Bildschirmfoto 2024-09-01 um 21 27 14" src="https://github.com/user-attachments/assets/25ecdce0-624a-487d-8d4f-9a0fe8026ace">
 
 
-Welcome to **Original Store's** portfolio website! This site showcases our online clothing store's features, technology stack, and development details. It serves as a comprehensive overview of our store's capabilities and provides insights into our technological approach and user functionality.
+Welcome to **Original Store's** website! This site showcases our online clothing store's features, technology stack, and development details. It serves as a comprehensive overview of our store's capabilities and provides insights into our technological approach and user functionality.
 
 ## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
 - [Technologies](#technologies)
-- [Installation](#installation)
 
 ## Introduction
 
 Original Store's portfolio site highlights the key features and technologies used in our online clothing store. It offers a detailed look at how our platform operates, focusing on the core functionalities and user experience.
 
-Visit the live site: [Original Store](https://originalstore.com/)
+Visit the live site: [Original Store](https://github.com/pablobeckg/Original-Clothing)
 
 ## Features
 
